@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098999116759",
+    "project_id": "ex87mrhifirebasechatting2021",
+    "storage_bucket": "ex87mrhifirebasechatting2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098999116759:android:a6b43938c9d2b5576c9192",
+        "android_client_info": {
+          "package_name": "com.mrhi2020.ex87firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098999116759-a104ljqpsil69tncjcm4t11io1l2bfcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98ju-oMFVo__9H2WwTjnkQvqwCJ-akms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098999116759-a104ljqpsil69tncjcm4t11io1l2bfcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
